@@ -42,8 +42,9 @@ Each project runs itself through the direction of its maintainers, and support f
 
 Criteria for joining is currently subjective and up for debate. Anything "core" to the Johnny-Five platform is welcome. If you're project is on [Johnny-Five.io](http://johnny-five.io/), you probably belong here.
 
-We require three things:
+We require four things:
 
+1. You adhear to the prementioned standards
 1. A list of users with write access to your repo.
 2. A list of users with admin access to your repo.
 3. About 15 minutes of your time.
