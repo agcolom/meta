@@ -11,20 +11,20 @@ The repo that talks about the j5js organization. PRs and issues should be about 
 
 ## The Johnny-Five Open Source Organization
 
-[Johnny-Five](https://github.com/rwaldron/johnny-five) has been a leader in JavaScript robotics since the start of JavaScript robotics. It has provided an abstraction layer over hardware with a common set of APIs that has allowed programmers, hobbiests, and makers to learn one set of "tools" and apply them in many incredible places to do many wonderful things. For years, thousands of users around hundreds of libraries have had a singlular focus on the original Johnny-Five library. Since then, we've had a fair number of very useful modules and projects pop up that extend the functionality of Johnny-Five. We have plugins, applications, even entire code deployment systems, that have been built around the javascript library we all know and love. 
+[Johnny-Five](https://github.com/rwaldron/johnny-five) has been a leader in JavaScript robotics since the start of JavaScript robotics. It has provided an abstraction layer over hardware with a common set of APIs that has allowed programmers, hobbyists, and makers to learn one set of "tools" and apply them in many incredible places to do many wonderful things. For years, thousands of users around hundreds of libraries have had a singular focus on the original Johnny-Five library. Since then, we've had a fair number of very useful modules and projects pop up that extend the functionality of Johnny-Five. We have plugins, applications, even entire code deployment systems, that have been built around the javascript library we all know and love. 
 
-Johnny-Five is built on a philosophy that it should be easy to use. That it should do its best to help you be successful as a developer. To do its best to help you be *awesome* in your endevors into physical computing. All these projects share in this philosophy.
+Johnny-Five is built on a philosophy that it should be easy to use. That it should do its best to help you be successful as a developer. To do its best to help you be *awesome* in your endeavors into physical computing. All these projects share in this philosophy.
 
-Out of our ecosystem of people, parts, and software, we're starting `j5js`, a github organization to house and foster the development of Johnny-Five's core libraries. When you see a library, tool, or application in the j5js organization, you can expect to find a well-maintained and supported project that meets our usablity standard around documntation, clean APIs, and compatability that made Johnny-Five the success it is today.
+Out of our ecosystem of people, parts, and software, we're starting `j5js`, a github organization to house and foster the development of Johnny-Five's core libraries. When you see a library, tool, or application in the j5js organization, you can expect to find a well-maintained and supported project that meets our usability standard around documentation, clean APIs, and compatibility that made Johnny-Five the success it is today.
 
-On the surface, nothing should change about your favorite projects. The URLs will redirect, the maintainers will be the same people with the same control over their projects. All we ask is that every project keep a set of agreed upon standards to help ensure our users sucecss.
+On the surface, nothing should change about your favorite projects. The URLs will redirect, the maintainers will be the same people with the same control over their projects. All we ask is that every project keep a set of agreed upon standards to help ensure our users success.
 
 # Standards
 Every Project in the organization should:
 
  - Have at least one maintainer
  - Have up-to-date documentation (readme or wiki is plenty)
- - Adhear to the ([Johnny-Five Code of Conduct](https://github.com/rwaldron/johnny-five/blob/master/CODE_OF_CONDUCT.md))
+ - Adhere to the ([Johnny-Five Code of Conduct](https://github.com/rwaldron/johnny-five/blob/master/CODE_OF_CONDUCT.md))
  - Have a [contributing guide](https://github.com/rwaldron/johnny-five/blob/master/CONTRIBUTING.md)
  - Have automated tests when applicable
 
@@ -44,12 +44,12 @@ Criteria for joining is currently subjective and up for debate. Anything "core" 
 
 We require four things:
 
-1. You adhear to the prementioned standards
+1. You adhere to the aforementioned standards.
 1. A list of users with write access to your repo.
 2. A list of users with admin access to your repo.
 3. About 15 minutes of your time.
 
-All links will be redircted by github. All issues, wiki, and commit history will be transfered. Please contact one of the j5js maintainers to start this process.
+All links will be redirected by github. All issues, wiki, and commit history will be transferred. Please contact one of the j5js maintainers to start this process.
 
 # Code of Conduct 
 This meta project, like all projects in this organization, adhears to the [Johnny-Five Code of Conduct](https://github.com/rwaldron/johnny-five/blob/master/CODE_OF_CONDUCT.md) You can find a list of current maintainers at the top of this file. 
